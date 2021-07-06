@@ -1,0 +1,14 @@
+.auth-page {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 600px;
+}
+.btn-container {
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    margin: 5px;
+}
